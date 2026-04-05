@@ -1,0 +1,9 @@
+node_modules/
+client/
+server/
+nexus-outbound/
+servicehq/
+my-motion-graphics/
+package.json
+package-lock.json
+README.md
